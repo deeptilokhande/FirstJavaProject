@@ -1,6 +1,8 @@
 package com.deepti.cloneandcopy;
 
 public class CloneAndCopy {
+	
+	//to check out clone 
 
 	public static void main(String[] args) {
 		 Dog a = new Dog();
